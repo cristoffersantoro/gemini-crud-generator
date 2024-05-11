@@ -1,2 +1,3 @@
 # gemini-crud-generator
-Este projeto tem por finalidade gerar telas de aplicações com base em um projeto de sua escolha, por meio de Inteligência Generativa, que vai estudar toda a arquitetura do projeto e com isso, dado os inputs que deseja, no caso os atributos da tela, a IA vai gerar uma tela do zero, com todas as operações de cadastro, edição e atualização.
+
+Este projeto tem por finalidade gerar telas de aplicações com base em um projeto de sua escolha, por meio de Inteligência Generativa, que vai estudar toda a arquitetura do projeto e com isso, dado os inputs que deseja, no caso os atributos da tela, a IA vai gerar uma tela do zero, com todas as operações de cadastro, edição e atualização. Neste projeto você terá a chance de explorar como conectar e varrer dados com Python, e como manter suas credenciais seguras no Google Drive, o que torna esse projeto uma ótima fonte de aprendizado para quem está iniciando. Vale a pena conferir..
